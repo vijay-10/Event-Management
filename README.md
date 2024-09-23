@@ -10,12 +10,22 @@ User Management: Admin can monitor and manage registered users.
 Theme Management: Admin can add and delete themes for events.
 Booking Management: Admin can view details of bookings made by users.
 # Technologies and Tools
-##Frontend:
+## Frontend:
 HTML, CSS, Bootstrap for UI design 
 jQuery for handling user interactions
-##Backend:
+## Backend:
 Java, J2EE, JSP for business logic and server-side scripting
-##Database:
+## Database:
 MySQL for storing user and booking data
 ##Others:
 JDBC for database connectivity
+# Team Members
+Project Lead: (Vijay Ananda C)
+Developers: (Chethan R,Naveen,Jeswanth,Wasim)
+# Role in Project
+Participated in the planning and designing phases of the application.
+Developed key features for both user and admin modules.
+Involved in implementing database structure and managing data flow.
+Collaborated with the team on UI/UX design using Bootstrap, CSS, and jQuery.
+# License
+This project is open-source. You are free to use and modify the code.
