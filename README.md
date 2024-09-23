@@ -17,7 +17,7 @@ jQuery for handling user interactions
 Java, J2EE, JSP for business logic and server-side scripting
 ## Database:
 MySQL for storing user and booking data
-##Others:
+## Others:
 JDBC for database connectivity
 # Team Members
 Project Lead: (Vijay Ananda C)
